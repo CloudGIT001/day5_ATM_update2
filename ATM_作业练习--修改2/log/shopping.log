@@ -1,0 +1,8 @@
+2017-07-31 01:21:44,395 - shopping - INFO - account:qwert action:shopping product_number:1 goods:iphone7 cost:5188
+2017-07-31 01:26:58,181 - shopping - INFO - account:qwert action:shopping product_number:10 goods:Tea cost:3110
+2017-07-31 02:35:16,201 - shopping - INFO - account:qwert action:shopping product_number:10 goods:python_book cost:490
+2017-08-02 00:11:58,782 - shopping - INFO - account:qqqqq action:shopping product_number:5 goods:Milk cost:295
+2017-08-02 00:16:53,205 - shopping - INFO - account:111111 action:shopping product_number:10 goods:management_book cost:300
+2017-08-02 00:17:00,590 - shopping - INFO - account:111111 action:shopping product_number:5 goods:Milk cost:595
+2017-08-02 00:23:43,010 - shopping - INFO - account:123456 action:shopping product_number:5 goods:linux_book cost:375
+2017-08-02 00:23:49,776 - shopping - INFO - account:123456 action:shopping product_number:2 goods:java_book cost:495
